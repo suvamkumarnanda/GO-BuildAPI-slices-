@@ -8,7 +8,7 @@ Here instead of Database I have used Sices for CRUD Operation
 ```bash
   1. download the .zipfile
   2. extract the .zip file
-  3. cd Go-ToDo-List
+  3. cd Go-REST API
   4.create the go.mod file
   5.install gorilla mux by running the command("go get -u github.com/gorilla/mux")
   6.Chage all the indirect modules to direct by running the command("go mod tidy")
